@@ -1,4 +1,4 @@
 # New Project
 
 This project was created local system
-Created by Yash Gupta SE
+Created by Yash
